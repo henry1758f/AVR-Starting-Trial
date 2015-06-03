@@ -2,14 +2,14 @@
 This program was produced by the
 CodeWizardAVR V2.05.3 Standard
 Automatic Program Generator
-© Copyright 1998-2011 Pavel Haiduc, HP InfoTech s.r.l.
+Â© Copyright 1998-2011 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
 Project : 
 Version : 
 Date    : 2015/5/26
-Author  : PerTic@n
-Company : If You Like This Software,Buy It
+Author  : henry1758f@gmail.com
+Company : KUAS EE501
 Comments: 
 
 
