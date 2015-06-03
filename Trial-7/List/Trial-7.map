@@ -1,0 +1,26 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+Keypad                                                            0x00E0      16
+numA                                                              0x00F0       4
+numB                                                              0x00F4       4
+numC                                                              0x00F8       4
+_seed                                                             0x00FC       4
+_base_y                                                           0x0100       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+fnc                                                               R4           1
+num_pointer                                                       R5           1
+dotA                                                              R6           1
+dotB                                                              R7           1
+dotC                                                              R8           1
+pressed                                                           R9           1
+_lcd_x                                                            R10          1
+_lcd_y                                                            R11          1
+_lcd_maxx                                                         R12          1

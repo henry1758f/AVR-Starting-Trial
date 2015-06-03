@@ -1,0 +1,25 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+onum                                                              0x00E0       4
+o2num                                                             0x00E4       2
+_base_y                                                           0x00E6       4
+_lcd_x                                                            0x00EA       1
+_lcd_y                                                            0x00EB       1
+_lcd_maxx                                                         0x00EC       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+Year                                                              R4,R5        2
+microSecond                                                       R6,R7        2
+sysclk                                                            R8,R9        2
+Month                                                             R10          1
+Day                                                               R11          1
+Hour                                                              R12          1
+Minute                                                            R13          1
+Second                                                            R14          1
