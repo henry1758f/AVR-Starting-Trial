@@ -1,9 +1,0 @@
-VERSION:3 SOURCE_TIMESTAMP:46BB48F2
-NODE:I LEVEL:0 LINE:23 "D:\Program Files (x86)\cvavr2.05.3\inc\90s8535.h"
-NODE:I LEVEL:0 LINE:26 "D:\Program Files (x86)\cvavr2.05.3\inc\stdio.h"
-NODE:I LEVEL:0 LINE:27 "D:\Program Files (x86)\cvavr2.05.3\inc\delay.h"
-NODE:M LEVEL:0 LINE:28 "true"
-NODE:M LEVEL:0 LINE:29 "false"
-NODE:F LEVEL:0 LINE:34 "main(void)"
-NODE:F LEVEL:0 LINE:154 "TXdata(unsigned char data)"
-NODE:F LEVEL:0 LINE:162 "RXdata(void)"
