@@ -8,8 +8,8 @@ http://www.hpinfotech.com
 Project : 
 Version : 
 Date    : 2015/1/26
-Author  : user
-Company : 
+Author  : henry1758f@gmail.com
+Company : KUAS EE501
 Comments: 
 
 
